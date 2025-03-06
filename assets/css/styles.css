@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+    margin: 0%;
+
+}
+.section1{
+    background-color: rgb(170, 163, 163);
+    padding: 20px;
+    margin: 35px;
+}
+a{
+
+display: inline;
+text-decoration: none;
+color: inherit;
+}
+
+.section2{
+    display: inline-block;
+    font-size: 50px;
+    width:25%;
+    
+
+
+}    
+
