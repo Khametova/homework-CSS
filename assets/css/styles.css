@@ -6,10 +6,12 @@ body{
     margin: 0%;
 
 }
+
 .section1{
-    background-color: rgb(170, 163, 163);
-    padding: 20px;
-    margin: 35px;
+    background-image:url(/assets/img/pexels-photo-248515.png) ;
+    color: aliceblue;
+    padding:35px;
+    margin: 25px;
 }
 a{
 
@@ -32,18 +34,20 @@ color: inherit;
 }
 
 .section2{
-    background-color: rgb(62, 23, 23);
-    color: blanchedalmond;
-    padding: 40px;
-    margin: 25px;
+    display: inline-block;
+    width: 98%;
+    height: ;
 }
 .section3{
-    padding: 20px;
-    margin: 25px;
+   display: inline-block;
 }
 
 .marking3{
-    display: inline-block;
-    font-size: 50px;
-    width: 45%;
+    display:inline-block ;
+}
+
+img{
+    width: calc(90/3);
+    height: 280px;
+
 }
