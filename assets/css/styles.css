@@ -5,6 +5,7 @@ body{
     font-size: 30px;
     margin: 0%;
     
+    
 }
 
 a{
@@ -28,9 +29,10 @@ img{
     color: aliceblue;
     padding:35px;
     margin: 25px;
-    p {
+    p{
         font-size: medium;
     }
+
 }
 
 article{
@@ -42,9 +44,26 @@ article{
     width: 30%;
     display: inline-block;
 }
+
+.section2{
+    background-color: rgb(49, 47, 47);
+    color: aliceblue;
+    p{
+        font-size: medium;
+    }
+    width: 90%;
+    padding: 10%;
+    margin: auto;
+}
+
 .section3{
     width: 45%;
-    height: 50%%;
-    display: inline-block;
-
+    height: 50%;
+    display:inline-block; 
+}
+.p1{
+    background-color: aliceblue;
+}
+.p2{
+    background-color: grey;
 }
