@@ -13,10 +13,11 @@ a{
 
 }
 
-.btn{
-    background-color: git rgb(213, 48, 48);
-    margin:10px;
+.btn {
+    background-color: beige;
+    color: black;
     padding: 10px;
+    margin: 5px;
 }
 img{
     width: 300px;
